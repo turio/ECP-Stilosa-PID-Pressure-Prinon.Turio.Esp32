@@ -1,5 +1,5 @@
 # Delonghi ESP32 Temperature Pressure Control & Monitor
-Project for acheiving PID like temperature control and pressure profiling on Delonghi ECP/ Stilosa without any drilling or difficult mods that require manual labour
+IOT Project for acheiving PID like temperature control and pressure profiling on Delonghi ECP/ Stilosa Espresso machines without any drilling or difficult mods that require manual labour
 
 ESP32-based controller code for monitoring and controlling temperature and pressure on Delonghi espresso machines such as ECP series and Stilosa. 
 
